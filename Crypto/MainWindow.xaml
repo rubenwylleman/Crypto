@@ -9,7 +9,7 @@
     <Grid>
         <TextBox x:Name="input" HorizontalAlignment="Left" Height="88" Margin="24,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="498"/>
         <TextBox x:Name="result" HorizontalAlignment="Left" Height="88" Margin="24,240,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="498"/>
-        <Button x:Name="ENCRYPT" Content="encrypt" HorizontalAlignment="Left" Margin="24,207,0,0" VerticalAlignment="Top" Width="245" Click="encrypt_Click"/>
+        <Button x:Name="ENCRYPTTT" Content="encrypt" HorizontalAlignment="Left" Margin="24,207,0,0" VerticalAlignment="Top" Width="245" Click="encrypt_Click"/>
         <Button x:Name="DECRYPT" Content="decrypt" HorizontalAlignment="Left" Margin="277,207,0,0" VerticalAlignment="Top" Width="245" Click="decrypt_Click"/>
         <TextBox x:Name="Keyentry" HorizontalAlignment="Left" Height="23" Margin="324,58,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="198"/>
         <Label x:Name="label" Content="Crypto-key:" HorizontalAlignment="Left" Margin="246,55,0,0" VerticalAlignment="Top" Width="73"/>
